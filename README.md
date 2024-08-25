@@ -1,5 +1,3 @@
-Natürlich! Ich habe das Template um spezifische Abschnitte ergänzt, die für das Debugging in GTA FiveM nützlich sind, insbesondere für Informationen zur Client-Konsole und potenzielle Game-Crashes.
-
 ```markdown
 # 🐛 Bug Report
 
